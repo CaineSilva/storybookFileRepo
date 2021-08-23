@@ -1,0 +1,12 @@
+{
+  "journey" : {
+    "name" : "Défaut",
+    "link" : ""
+  },
+  "acts" : [
+    {
+      "name" : "test",
+      "link" : ""
+    }
+  ]
+}
