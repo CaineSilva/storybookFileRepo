@@ -1,0 +1,23 @@
+<actList>
+  <act id="1629741656334" number="acte2" isGameOver="true" firstSceneNumber="scene1">
+    <title>Acte 2</title>
+    <description>Texte de l'acte 2</description>
+    <sceneList>
+            <scene id="1629741656334" number="scene1" isGameOver="false">
+        <title></title>
+        <description></description>
+        <choiceList>
+        </choiceList>
+        <conditionList>
+        </conditionList>
+        <effectList>
+        </effectList>
+      </scene>
+
+    </sceneList>
+    <conditionList>
+    </conditionList>
+    <effectList>
+    </effectList>
+  </act>
+</actList>

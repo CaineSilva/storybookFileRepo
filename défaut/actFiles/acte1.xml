@@ -1,0 +1,60 @@
+<actList>
+  <act id="1629741656322" number="acte1" isGameOver="false" firstSceneNumber="scene1">
+    <title>Acte 1</title>
+    <description>Texte de l'acte 2</description>
+    <sceneList>
+            <scene id="1629741656326" number="scene1" isGameOver="false">
+        <title>Scène 1</title>
+        <description>Texte de la scène 1</description>
+        <choiceList>
+          <choice id="1629741656327" nextActNumber="" nextSceneNumber="scene2">
+            <text>Vers scène 2</text>
+            <conditionList>
+            </conditionList>
+            <effectList>
+            </effectList>
+          </choice>
+          <choice id="1629741656328" nextActNumber="acte2" nextSceneNumber="">
+            <text>Vers acte 2</text>
+            <conditionList>
+            </conditionList>
+            <effectList>
+            </effectList>
+          </choice>
+        </choiceList>
+        <conditionList>
+        </conditionList>
+        <effectList>
+        </effectList>
+      </scene>
+
+            <scene id="1629741656330" number="scene2" isGameOver="true">
+        <title>Scène 2 de Caine</title>
+        <description>Scène de Caine</description>
+        <choiceList>
+        </choiceList>
+        <conditionList>
+          <condition expression="@character@=Caine"/>
+        </conditionList>
+        <effectList>
+        </effectList>
+      </scene>
+      <scene id="1629741656332" number="scene2" isGameOver="true">
+        <title>Scène 2 Riwan</title>
+        <description>Scène de Riwan</description>
+        <choiceList>
+        </choiceList>
+        <conditionList>
+          <condition expression="@character@=Riwan"/>
+        </conditionList>
+        <effectList>
+        </effectList>
+      </scene>
+
+    </sceneList>
+    <conditionList>
+    </conditionList>
+    <effectList>
+    </effectList>
+  </act>
+</actList>

@@ -1,0 +1,20 @@
+<journey id="Défaut">
+  <boundIndicatorList>
+  </boundIndicatorList>
+  <flagList>
+  </flagList>
+  <storyCharacterList>
+    <storyCharacter id="Caine">
+      <boundIndicatorList>
+      </boundIndicatorList>
+      <flagList>
+      </flagList>
+    </storyCharacter>
+    <storyCharacter id="Riwan">
+      <boundIndicatorList>
+      </boundIndicatorList>
+      <flagList>
+      </flagList>
+    </storyCharacter>
+  </storyCharacterList>
+</journey>
