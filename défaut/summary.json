@@ -1,11 +1,16 @@
 {
   "journey" : {
-    "name" : "Défaut",
-    "link" : ""
+    "name" : "Défaut.xml",
+    "link" : "https://raw.githubusercontent.com/CaineSilva/storybookFileRepo/main/d%C3%A9faut/D%C3%A9faut.xml"
   },
   "acts" : [
     {
-      "name" : "test",
+      "name" : "acte1.xml",
+      "link" : ""
+    },
+    
+    {
+      "name" : "acte2.xml",
       "link" : ""
     }
   ]
